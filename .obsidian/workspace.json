@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "8b24bef05e60ddcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f75eaca4450ac21a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0909ed4ba0dde2d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Full Notes/Deep Dive into LLMs like ChatGPT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deep Dive into LLMs like ChatGPT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2298356ab42e5b5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ff0d3b4361ff4ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4398788663862dc5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "31c2dfb6958c9aaa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d905dd8c5e7856cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0b79d86916b3e9c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb2475b89a572622",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de0fd10ab6ba03fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "33e72d17aa16e403",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "15095a9dca8f73de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0e54f915fa8e3dd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0909ed4ba0dde2d0",
+  "lastOpenFiles": [
+    "_config.yml",
+    "data.js",
+    "README.md",
+    "script.js",
+    "styles.css",
+    "index.html",
+    "3-Tags/LLM.md",
+    "6-Full Notes/Deep Dive into LLMs like ChatGPT.md",
+    "笔记管理思路.md",
+    "6-Full Notes/Smolagents源码学习.md",
+    "6-Full Notes/未命名.md",
+    "3-Tags/未命名.md",
+    "5-Template/New note.md",
+    "5-Template/Reseach Notes.md",
+    "5-Template/Materials.md",
+    "1-Rough Notes/学习计划.md",
+    "1-Rough Notes/网工方向.md",
+    "6-Full Notes/方程组.md",
+    "6-Full Notes/微分.md",
+    "3-Tags/微积分.md",
+    "3-Tags/机器学习.md",
+    "3-Tags/线性代数.md",
+    "3-Tags/Coursera.md",
+    "6-Full Notes/[初探机器学习.md",
+    "未命名.canvas",
+    "CPP.md",
+    "6-Full Notes/Python.md",
+    "3-Tags/humble.md",
+    "未命名 1.md",
+    "未命名",
+    "[万维钢（同人于野）：用强力研读书.md",
+    "6-Full Notes",
+    "未命名 3",
+    "5-Template",
+    "3-Tags",
+    "4-Indexes",
+    "创建链接.md"
+  ]
+}

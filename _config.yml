@@ -1,0 +1,32 @@
+# GitHub Pages configuration
+title: "Professional Notes - Knowledge Graph"
+description: "Interactive visualization of my Obsidian notes with dynamic graph relationships"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
+  - .github/
+  - process_notes.py
+  - "*.draft"
+
+# Include files that start with underscores
+include:
+  - _config.yml
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# SEO settings
+lang: en
+author: "Your Name"
+
+# Social media and analytics (optional)
+# google_analytics: UA-XXXXXXXX-X
+# github_username: your-username
